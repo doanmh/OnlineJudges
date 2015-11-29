@@ -1,3 +1,4 @@
+//Ecological Bin Packing
 #include <iostream>
 
 using namespace std;
