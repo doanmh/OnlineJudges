@@ -1,0 +1,11 @@
+Here is a hint for this problem:
+
+This problem can be solved either with Longest Common Subsequence or Longest Increasing Subsequence. For reference, these are the link to the algorithms found on Wikipedia. 
+
+Longest Increasing Subsequence:
+https://en.wikipedia.org/wiki/Longest_increasing_subsequence
+Longest Common Subsequence:
+https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
+
+In my solution, I use Longest Increasing Subsequence. The function lis() which represent this process is written pretty much the same as the pseudo code from LIS on Wikipedia. 
+
