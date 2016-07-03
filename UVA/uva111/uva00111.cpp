@@ -1,4 +1,10 @@
 //uva111: history grading
+/* 
+Longest Increasing Subsequence Problem
+Dynamic Programming 
+
+Minh Doan
+*/
 #include <iostream>
 #include <cmath>
 
